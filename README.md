@@ -1,6 +1,5 @@
 # Bio
-👋 Salut, je suis @dbacot,
-Je suis encore un débutant dans le développement avec une passion pour le front-end et un grand intérêt pour la cybersécurité.
+👋 Salut,Je suis encore un débutant dans le développement avec une passion pour le front-end et un grand intérêt pour la cybersécurité.
 💡 Je m'intéresse à :
 -La création de sites web en Front-End (HTML, CSS, JavaScript)
 -Les bases de la cybersécurité pour mieux comprendre comment protéger les applications web
